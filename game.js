@@ -23,5 +23,7 @@ function buttonPress() {
       topText.innerHTML = phrases.phrase5;
   } else if (topText.innerHTML == phrases.phrase5) {
       topText.innerHTML = phrases.phrase6;
-    }
+  } else if (topText.innerHTML == phrases.phrase6) {
+    topText.innerHTML = "Don't press the button."
+  }
 };
