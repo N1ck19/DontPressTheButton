@@ -1,0 +1,15 @@
+#changing_text {
+  text-align: center;
+  font-family: Arial;
+  margin-top: 40px;
+  font-size: 50px;
+}
+
+#button {
+  height: 15%;
+  width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
